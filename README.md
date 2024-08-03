@@ -9,9 +9,13 @@ The program relays the probabilities of each player winning, and the probability
 ## How to Use
 
 Run the program using driver.py. 
-Input card values and suits as prompted by the program. 
+
+The program will prompt for the card values and suits of players and community cards.
+
+Card values are from 2 - 10, J, Q, K, A 
+
 Suits are as follows:
-C = Clubs
-S = Spades
-H = Hearts
-D = Diamonds
+- C = Clubs
+- S = Spades
+- H = Hearts
+- D = Diamonds
